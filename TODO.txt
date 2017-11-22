@@ -1,0 +1,9 @@
+ALPHA 0.1:
+Create a C# program file that can read Elite Dangerous journal files in version 2.4.
+Create a python script using Chromapy that can be called from the C# program.
+Provide only limited functionality for jumps to supercruise or hyperspace //TODO: Add proper event name here.
+
+ALPHA 0.2
+Extend functionality to properly reset Chroma lighting after jump event.
+
+Further milestones TBD.
